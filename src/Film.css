@@ -1,0 +1,18 @@
+a {
+  color: black;
+  border: 1px solid grey;
+  padding: 10px;
+  text-decoration: none;
+  display: block;
+  margin: 10px;
+  margin-left: 20px;
+  width: 50%;
+
+}
+
+.film {
+  display: block;
+  /* margin: 20px; */
+  text-align: center;
+
+}
